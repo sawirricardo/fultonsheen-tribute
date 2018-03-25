@@ -1,0 +1,56 @@
+.jumbotron-fluid{
+    background: url(https://i1.wp.com/www.catholicgentleman.net/wp-content/uploads/2015/09/SHEEN-e1443179654661.jpg?ssl=1) center center no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+    height: 50em;
+    position: relative;
+    color: snow;
+    text-align: center;
+}
+
+.container-jumbo {
+    padding-top: 15em;
+}
+#about {
+    text-align: center;
+    line-height: 2em; 
+    max-width: 52em;
+    margin: auto auto 5em auto;
+    
+}
+
+#testimony {
+    text-align: center;
+    margin: auto auto 5em auto;
+}
+
+#teaching {
+    text-align: center;
+    margin: auto;
+}
+
+.name {
+    text-align: center;
+    font-family: "Helvetica Neue", "HelveticaNeue-Light", "Helvetica Neue Light", Helvetica, Arial, "Lucida Grande", sans-serif;
+    font-weight: bolder;
+    font-size: 5em;
+    margin: 0.5em auto;
+}
+
+.carousel-inner {
+    background-position: center;
+}
+
+.carousel-inner h3 {
+    text-align: center;
+    font-size: 150%;
+    margin: auto;
+    max-width: 25em;
+    min-width: 5em;
+    line-height: 1.5em;
+    font-family: "HelveticaNeue-Light", "Helvetica Neue Light", "Helvetica Neue", Helvetica, Arial, "Lucida Grande", sans-serif; 
+}
+
+footer {
+    margin-bottom: 2em;
+}
